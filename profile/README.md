@@ -1,6 +1,7 @@
 <a href="https://astrava.games">
   <img width="1460" height="320" alt="Astrava Entertainment wordmark with our celestial logo in the left: a woman holding a star in her hands." src="https://github.com/user-attachments/assets/ac30ae6d-95ac-4101-bc31-9802714d0a84" />
 </a>
+
 # Technologies for Real Artists
 
 **Astrava Entertainment** is a creative tech collective building tools, engines, and ecosystems for the next generation of artists, designers, and developers.  
